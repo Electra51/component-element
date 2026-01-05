@@ -18,6 +18,7 @@ const Navbar = () => {
     { id: 10, name: "Multiselect", path: "/multiselect" },
     { id: 11, name: "Accordion", path: "/accordion" },
     { id: 12, name: "Pagination", path: "/pagination" },
+    { id: 13, name: "Map", path: "/map" },
   ];
 
   const toggleDropdown = (id) => {

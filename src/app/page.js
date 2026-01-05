@@ -1,6 +1,7 @@
+import Calendar from "./calendar/page";
 
 export default function Home() {
   return (
-   <div>hello</div>
+   <div><Calendar/></div>
   );
 }

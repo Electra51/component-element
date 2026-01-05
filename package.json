@@ -9,11 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fullcalendar/daygrid": "^6.1.20",
+    "@fullcalendar/interaction": "^6.1.20",
+    "@fullcalendar/react": "^6.1.20",
+    "@fullcalendar/timegrid": "^6.1.20",
     "@tailwindcss/postcss": "^4.1.18",
+    "leaflet": "^1.9.4",
     "lucide-react": "^0.562.0",
     "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
+    "react-leaflet": "^5.0.0",
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {

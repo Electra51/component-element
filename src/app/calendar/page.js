@@ -1,9 +1,14 @@
+import Calendar1 from '@/component/Calender1';
 import React from 'react'
 
-const calendar = () => {
+const Calendar = () => {
   return (
-    <div>calendar</div>
+    <div>
+        <h2>This is full calender</h2>
+        <Calendar1/>
+    </div>
+   
   )
 }
 
-export default calendar;
+export default Calendar;
